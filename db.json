@@ -13,48 +13,116 @@
       "postId": 1
     }
   ],
-  "leds": [
+  "trending": [
     {
       "id":1,
-      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgo89Asgv5sqDPew1dK4TPJ24b3nkGkW2ZZqVN2Bcx1cvVtiHFUBib9lwknC6NWc0HkDM&usqp=CAU",
-      "title":"TCL 139.7cm(55 inch)QLED (4k) smart TVC725",
-      "price": 42990.00,
-      "mrp":"1,16,990",
-      "save":"63%(74,000)"
+      "url":"https://d1z88p83zuviay.cloudfront.net/ProductVariantThumbnailImages/17d6b165-a222-4e0e-9d2e-20c34236e277_425x425.jpg",
+      "title":"HA TAPIOCA FLOUR 400G",
+      "qty":"1pc",
+      "mrp":"₹90"
       },
     {
       "id":2,
-      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZYNIErNDapH19lQ3h6DAA6WA8AWd1YCG0zQ&usqp=CAU",
-      "title":"ONEPLUS 108 cm(43 inch) Full HD LED TV,43Y1 ",
-      "price":24999,
-      "mrp":"29999",
-      "save":"17%(5000)"
+      "url":"https://d1z88p83zuviay.cloudfront.net/ProductVariantThumbnailImages/578a02e6-8e0b-4868-9689-5733471e3b87_425x425.jpg",
+      "title":"Kwality Wall'S Ice Cream - Magnum Chocotrffle Stick 80Ml",
+      "qty":"1pc",
+      "mrp":"₹90"
     },
 
     {
       "id":3,
-      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZX37l4f8WgBiuzOXk5PFjv16ve50TDGCjYLSqHYqyFCe1Dn9wudVyBu00GsTHnxFX2Ak&usqp=CAU",
-      "title":"Hisense 108 cm (43 inch ) 2yr Warrantly 4k (Black)",
-      "price":20990,
-      "mrp":"44990",
-      "save":"53%(24,,000)"
+      "url":"https://d1z88p83zuviay.cloudfront.net/ProductVariantThumbnailImages/120d587f-37c9-4743-bc37-2cbb7bd57025_425x425.jpg",
+      "title":"HA ORGANIC MOONG DAL YELLOW SPLIT 500G",
+      "qty":"1pc",
+      "mrp":"₹149"
     },
     {
       "id":4,
-      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfVxPWl2-qe7k3GLEBbuLEkSDt1AnIPltEew&usqp=CAU",
-      "title":"IFFALCON 139.7cm (55 inch)ultra HD(4k), 55U71",
-      " price": 24990,
-      "mrp":"70990",
-      "Save":"64%(63%(45,000)"
-    },
-    {
-      "id":5,
-      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzPZoUcNOoeHQ3aWcN2XX7J73YjA4HDb0jIg&usqp=CAU",
-      "title":"Kodak 108 cm(43 inch)Ultra HD (4k) LED Smart,7XPRO",
-      "price":22999.00,
-      "mrp":"33999",
-      "save":"32%(11,100)"
+      "url":"https://d1z88p83zuviay.cloudfront.net/ProductVariantThumbnailImages/17d6b165-a222-4e0e-9d2e-20c34236e277_425x425.jpg",
+      "title":"HA TAPIOCA FLOUR 400g",
+      "qty":"1pc",
+      "mrp":"₹210"
     }
+],
+"discover": [
+  {
+    "id":1,
+    "url":"https://d1z88p83zuviay.cloudfront.net/ProductVariantThumbnailImages/eb67bb12-a336-4dab-9913-652d224e83a9_425x425.jpg",
+    "title":"RAW PRESSERY 100% ORANGE JUICE 250ML BTL",
+    "qty":"1pc",
+    "mrp":"₹80"
+    },
+  {
+    "id":2,
+    "url":"https://d1z88p83zuviay.cloudfront.net/ProductVariantThumbnailImages/389a321e-91d8-4cc7-802f-0a2a7481d72a_425x425.jpeg",
+    "title":"ONLY CARDAMOM SEED POWDER 52G",
+    "qty":"1pc",
+    "mrp":"₹390.15"
+  },
+
+  {
+    "id":3,
+    "url":"https://d1z88p83zuviay.cloudfront.net/ProductVariantThumbnailImages/1350955_1_425x425.jpg",
+    "title":"CF MUSTARD OIL 500ML",
+    "qty":"1pc",
+    "mrp":"₹228"
+  },
+  {
+    "id":4,
+    "url":"https://d1z88p83zuviay.cloudfront.net/ProductVariantThumbnailImages/c4401f4b-3663-4e52-affc-d4ed3dc6c7ab_425x425.jpg",
+    "title":"BEANIES MINTCHOCOLATE INSTANTCOFFEE..",
+    "qty":"1pc",
+    "mrp":"₹445.5"
+  },
+  {
+    "id":5,
+    "url":"https://d1z88p83zuviay.cloudfront.net/ProductVariantThumbnailImages/19148657-cffb-446f-a956-99dac901384d_425x425.jpg",
+    "title":"TY-PHOO SLIM TEA 20S TEA BAG BOX",
+    "qty":"1pc",
+    "mrp":"₹189"
+  },
+  {
+    "id":6,
+    "url":"https://d1z88p83zuviay.cloudfront.net/ProductVariantThumbnailImages/dce4c1e4-f4f0-4dfb-8cd3-0d1075f1ba18_425x425.jpg",
+    "title":"TY-PHOO CHAMOMILE 25S TEA BAG BOX",
+    "qty":"1pc",
+    "mrp":"₹189"
+  },
+  {
+    "id":7,
+    "url":"https://d1z88p83zuviay.cloudfront.net/ProductVariantThumbnailImages/93d3484e-d057-4f84-8afc-565082186cb5_425x425.jpg",
+    "title":"Organic Masoor Malka Split - Health..",
+    "qty":"1pc",
+    "mrp":"₹137.75"
+  },
+  {
+    "id":8,
+    "url":"https://d1z88p83zuviay.cloudfront.net/ProductVariantThumbnailImages/0512cc10-215c-4a79-9b4c-1493f21b2eec_425x425.jpg",
+    "title":"BEANIES DOUBLE CHOCLTE INSTANTCOFFE..",
+    "qty":"1pc",
+    "mrp":"₹445.5"
+  },
+  {
+    "id":9,
+    "url":"https://d1z88p83zuviay.cloudfront.net/ProductVariantThumbnailImages/cc7aef2a-434e-4fa1-a93d-6f08cd51545f_425x425.jpg",
+    "title":"YUMMIEZ PUNJABI CHCKN TIKKA 400G",
+    "qty":"1pc",
+    "mrp":"₹285"
+  },
+  {
+    "id":10,
+    "url":"https://d1z88p83zuviay.cloudfront.net/ProductVariantThumbnailImages/27ddb5c5-dc3c-49df-8db1-bf2f3a46287f_425x425.jpg",
+    "title":"YUMMIEZ CHCKN GARLIC FINGER 400G",
+    "qty":"1pc",
+    "mrp":"₹240"
+  },
+  {
+    "id":11,
+    "url":"https://d1z88p83zuviay.cloudfront.net/ProductVariantThumbnailImages/78b0f8aa-a2e0-4791-8c90-5aef2f784875_425x425.jpg",
+    "title":"Typhoo Green Tea 25's",
+    "qty":"1pc",
+    "mrp":"₹189"
+  }
 ],
   "profile": {
     "name": "typicode"
