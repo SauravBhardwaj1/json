@@ -13,6 +13,49 @@
       "postId": 1
     }
   ],
+  "leds": [
+    {
+      "id":1,
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgo89Asgv5sqDPew1dK4TPJ24b3nkGkW2ZZqVN2Bcx1cvVtiHFUBib9lwknC6NWc0HkDM&usqp=CAU",
+      "title":"TCL 139.7cm(55 inch)QLED (4k) smart TVC725",
+      "price": 42990.00,
+      "mrp":"1,16,990",
+      "save":"63%(74,000)"
+      },
+    {
+      "id":2,
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZYNIErNDapH19lQ3h6DAA6WA8AWd1YCG0zQ&usqp=CAU",
+      "title":"ONEPLUS 108 cm(43 inch) Full HD LED TV,43Y1 ",
+      "price":24999,
+      "mrp":"29999",
+      "save":"17%(5000)"
+    },
+
+    {
+      "id":3,
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZX37l4f8WgBiuzOXk5PFjv16ve50TDGCjYLSqHYqyFCe1Dn9wudVyBu00GsTHnxFX2Ak&usqp=CAU",
+      "title":"Hisense 108 cm (43 inch ) 2yr Warrantly 4k (Black)",
+      "price":20990,
+      "mrp":"44990",
+      "save":"53%(24,,000)"
+    },
+    {
+      "id":4,
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfVxPWl2-qe7k3GLEBbuLEkSDt1AnIPltEew&usqp=CAU",
+      "title":"IFFALCON 139.7cm (55 inch)ultra HD(4k), 55U71",
+      " price": 24990,
+      "mrp":"70990",
+      "Save":"64%(63%(45,000)"
+    },
+    {
+      "id":5,
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzPZoUcNOoeHQ3aWcN2XX7J73YjA4HDb0jIg&usqp=CAU",
+      "title":"Kodak 108 cm(43 inch)Ultra HD (4k) LED Smart,7XPRO",
+      "price":22999.00,
+      "mrp":"33999",
+      "save":"32%(11,100)"
+    }
+],
   "profile": {
     "name": "typicode"
   }
